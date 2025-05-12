@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/mhtri28/cnpm_BE
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Giaugg/FrontEnd.git
