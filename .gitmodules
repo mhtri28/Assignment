@@ -4,3 +4,6 @@
 [submodule "FrontEnd"]
 	path = FrontEnd
 	url = https://github.com/Giaugg/FrontEnd.git
+[submodule "CNPM_DOCS"]
+	path = CNPM_DOCS
+	url = https://github.com/mhtri28/CNPM_DOCS.git
